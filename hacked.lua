@@ -45,6 +45,6 @@ for _,v in next, game:GetService("Players"):GetPlayers() do
 end
 syn.queue_on_teleport(
     [[
-    loadstring(game:HttpGet(""))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PeaPattern/Tall-Man-Run/main/hacked.lua"))()
     ]]
 )
